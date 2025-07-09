@@ -41,6 +41,7 @@ namespace TodoNotes
             if (deck != null)
             {
                 _ = new DeckMenu(deck).ShowDialog();
+                deckList.Refresh();
             }
         }
 

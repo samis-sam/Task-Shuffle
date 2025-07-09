@@ -16,3 +16,4 @@ C:\Users\samdi\source\repos\TodoNotes\TodoNotes\obj\Debug\net8.0-windows\ref\Tod
 C:\Users\samdi\source\repos\TodoNotes\TodoNotes\obj\Debug\net8.0-windows\TodoNotes.MainMenu.resources
 C:\Users\samdi\source\repos\TodoNotes\TodoNotes\obj\Debug\net8.0-windows\TodoNotes.DeckMenu.resources
 C:\Users\samdi\source\repos\TodoNotes\TodoNotes\obj\Debug\net8.0-windows\TodoNotes.PromptWindow.resources
+C:\Users\samdi\source\repos\TodoNotes\TodoNotes\obj\Debug\net8.0-windows\TodoNotes.sourcelink.json

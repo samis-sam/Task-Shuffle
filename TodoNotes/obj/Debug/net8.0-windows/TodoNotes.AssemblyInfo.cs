@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoNotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81dcac117c697175711b002943e69a0ba746708e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoNotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoNotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
