@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|c:\\users\\samdi\\source\\repos\\todonotes\\todonotes\\deckmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|solutionrelative:todonotes\\deckmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|c:\\users\\samdi\\source\\repos\\todonotes\\todonotes\\model\\deckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|solutionrelative:todonotes\\model\\deckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|c:\\users\\samdi\\source\\repos\\todonotes\\todonotes\\model\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|solutionrelative:todonotes\\model\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|c:\\users\\samdi\\source\\repos\\todonotes\\todonotes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|solutionrelative:todonotes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|c:\\users\\samdi\\source\\repos\\todonotes\\todonotes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|solutionrelative:todonotes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|c:\\users\\samdi\\source\\repos\\todonotes\\todonotes\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D491C430-1EE9-46DA-BC8D-9B4A7ACC839D}|TodoNotes\\TodoNotes.csproj|solutionrelative:todonotes\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "TodoNotes\\MainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\MainMenu.Designer.cs",
+              "RelativeToolTip": "TodoNotes\\MainMenu.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAhwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:02:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\MainMenu.cs",
+              "RelativeDocumentMoniker": "TodoNotes\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\MainMenu.cs [Design]",
+              "RelativeToolTip": "TodoNotes\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:29:36.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\model\\Deck.cs",
+              "RelativeDocumentMoniker": "TodoNotes\\model\\Deck.cs",
+              "ToolTip": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\model\\Deck.cs",
+              "RelativeToolTip": "TodoNotes\\model\\Deck.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:55:01.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeckManager.cs",
+              "DocumentMoniker": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\model\\DeckManager.cs",
+              "RelativeDocumentMoniker": "TodoNotes\\model\\DeckManager.cs",
+              "ToolTip": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\model\\DeckManager.cs",
+              "RelativeToolTip": "TodoNotes\\model\\DeckManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:53:55.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\MainMenu.cs",
+              "RelativeDocumentMoniker": "TodoNotes\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\MainMenu.cs",
+              "RelativeToolTip": "TodoNotes\\MainMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:04:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeckMenu.cs",
+              "DocumentMoniker": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\DeckMenu.cs",
+              "RelativeDocumentMoniker": "TodoNotes\\DeckMenu.cs",
+              "ToolTip": "C:\\Users\\samdi\\source\\repos\\TodoNotes\\TodoNotes\\DeckMenu.cs",
+              "RelativeToolTip": "TodoNotes\\DeckMenu.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:29:26.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
